@@ -1,0 +1,2 @@
+Main-Class: OS141
+Class-Path: ./src/application/
