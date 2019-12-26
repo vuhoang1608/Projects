@@ -313,7 +313,7 @@ public class OS141 extends Application{
 				
 		Scene scene= new Scene(gridpane, 400, 400);
 		welcomeText = new Text("Welcome to \nBasic Operating System!!!");
-		Text studentInfo = new Text("By JONATHAN TRAN (#20843397)");
+		Text studentInfo = new Text("By JONATHAN TRAN");
 		studentInfo.setTextAlignment(TextAlignment.CENTER);
 		studentInfo.setStyle("-fx-font: 25px Calibri;\r\n");
 		welcomeText.setTextAlignment(TextAlignment.CENTER);
